@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lenovo/MLOPS/Chest-CT-Scan-detection/mlruns/0/cd1ac8c6c3054efe8d684a7729ede082/artifacts
+end_time: 1738352551005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd1ac8c6c3054efe8d684a7729ede082
+run_name: placid-shark-144
+run_uuid: cd1ac8c6c3054efe8d684a7729ede082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738352538439
+status: 4
+tags: []
+user_id: Lenovo
